@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TiagoLFrancisco
+- 👀 I’m interested in tracking my progress using Git.
+- 🌱 I’m currently learning JavaScrip & React and Testing Technics. 
+- 📫 How to reach me: tiagolopesfrancisco@gmail.com
